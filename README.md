@@ -53,3 +53,6 @@ OMEditの起動
 ``` terminal
 # OMEdit 
 ```
+
+![OMEdit](https://user-images.githubusercontent.com/25544286/79966782-e778ca00-84c8-11ea-9a98-7306802c2664.png)
+
