@@ -47,3 +47,9 @@ $ docker-compose up --build
 ``` terminal
 $ docker-compose run openmodelica /bin/bash
 ```
+
+OMEditの起動
+
+``` terminal
+# OMEdit 
+```
