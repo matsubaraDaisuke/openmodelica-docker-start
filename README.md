@@ -1,5 +1,7 @@
 # openmodelica-docker-start
 
+Docker上でOpenModelicaの開発環境を構築するためのリポジトリ
+
 # Macの場合
 
 XQuartzを事前にインストールして起動してください。
