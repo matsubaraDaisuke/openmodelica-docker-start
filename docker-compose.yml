@@ -1,0 +1,12 @@
+version: '3'
+
+services:
+    openmodelica:
+      container_name: openmodelica
+      build: ./docker/openmodelica
+      #tty: true
+      environment:
+        - DISPLAY=192.168.xx.xx:0.0
+      volumes:
+        - ./om-develop:/home/openmodelica
+        - /tmp/.X11-unix:/tmp/.X11-unix 
